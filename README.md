@@ -99,7 +99,7 @@ AnimateDiff는 사전 학습된 T2I 모델에 motion module을 적용하여 영�
 </a>
 
 
-밀링 공정 생성 영상 결과물 (좌), 밀링 공정 생성 영상 결과물 (우) 
+밀링 공정 생성 영상 결과물 (좌), 터닝 공정 생성 영상 결과물 (우) 
 
 본 프로젝트는 AnimateDiff 프레임워크를 Fine-Tuning하여 Milling 공정과 Turning 공정을 텍스트로부터 성공적으로 구현.<br>
 
